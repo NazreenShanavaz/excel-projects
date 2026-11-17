@@ -2,9 +2,13 @@
 
 An end-to-end sales performance dashboard built entirely in Excel Online, featuring automated data cleaning, advanced PivotTable modeling, interactive slicers, and custom KPI cards.
 
-## 📊 Dashboard Overview
-* **Total Revenue:** $1.85M 
-* **Total Orders:** 1,150 
+## 📊 Dashboard Preview
+
+![Sales Dashboard Preview](Dashboard%20Screenshot.png)
+
+## 📈 Dashboard Overview
+* **Total Revenue:** $1.85M[cite: 9]
+* **Total Orders:** 1,150[cite: 9]
 * **Quantity Sold:** 5,054 
 * **Average Order Value (AOV):** $1.61K
 * **Visualizations:** Monthly Revenue Trends (Line Chart), Regional Performance (Column Chart), Product Category Breakdown, Sales Channel Share (Doughnut Chart), and Top 5 Products Ranking.
